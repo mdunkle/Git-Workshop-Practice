@@ -1,1 +1,7 @@
 something interesting
+
+New line
+
+Heres some more text
+
+#here is a comment
